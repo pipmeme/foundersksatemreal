@@ -1,0 +1,39 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+
+Sitemap: https://foundersksa.com/sitemap.xml
+
+# AI-readable content
+# This is a single-page app. For full article content as plain text, use:
+# https://foundersksa.com/llms.txt
+# https://foundersksa.com/llms-full.txt
+# Or the API: https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug={article-slug}

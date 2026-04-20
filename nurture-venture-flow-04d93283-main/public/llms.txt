@@ -1,0 +1,36 @@
+# Founders KSA
+
+> Your gateway to entrepreneurship in Saudi Arabia. Real founder stories, startup resources, and ecosystem insights.
+
+## About
+
+Founders KSA documents the journeys of entrepreneurs building in Saudi Arabia. We provide founder stories, ecosystem insights, and startup resources for anyone looking to build in the Kingdom.
+
+## How to Read Our Content (for AI agents & crawlers)
+
+This is a single-page application. To read full article content as plain text, use our API:
+
+- **All articles:** https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article
+- **Specific article:** https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug={slug}
+- **Full content file:** [llms-full.txt](https://foundersksa.com/llms-full.txt)
+
+## Pages
+
+- [Home](https://foundersksa.com/)
+- [Founder Stories](https://foundersksa.com/stories)
+- [Insights](https://foundersksa.com/insights)
+- [About & Contact](https://foundersksa.com/about)
+
+## Founder Stories
+
+- [From Teenage Coder to 5 Million Downloads — Salman, NJD Studio](https://foundersksa.com/stories/njd-studio) | [Plain text](https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug=njd-studio)
+- [From the Janitor's Closet to the Boardroom — Sir Alain Edene, Fittin International](https://foundersksa.com/stories/alain-edene) | [Plain text](https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug=alain-edene)
+- [Rooted in Resilience: Riyadh's Farm-to-Table Café — Lulwah Al Juraiban, Treehouse](https://foundersksa.com/stories/treehouse) | [Plain text](https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug=treehouse)
+- [The Architect of Startups in Saudi Arabia — Hassan Ikram, Cotyledon](https://foundersksa.com/stories/hassan-ikram) | [Plain text](https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug=hassan-ikram)
+- [From Banking to Biotech — Faisal Shaker](https://foundersksa.com/stories/faisal-shaker) | [Plain text](https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug=faisal-shaker)
+- [The Science of Possibility — Dr. Hayat Sindi](https://foundersksa.com/stories/dr-hayat-sindi) | [Plain text](https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug=dr-hayat-sindi)
+
+## Contact
+
+- Email: info@foundersksa.com
+- Location: Riyadh, Saudi Arabia

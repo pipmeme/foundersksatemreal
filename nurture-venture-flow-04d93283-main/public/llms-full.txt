@@ -1,0 +1,95 @@
+# Founders KSA — Complete Content for AI Agents
+
+> Your gateway to entrepreneurship in Saudi Arabia. Real founder stories, startup resources, and ecosystem insights for building in the Kingdom.
+
+## How to Read Full Articles
+
+This website is a single-page application (SPA). If you cannot render JavaScript, use our plain-text API to read full article content:
+
+- **All articles index:** https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article
+- **Specific article:** https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug={slug}
+
+Replace `{slug}` with the article slug (e.g., `hassan-ikram`, `njd-studio`, `treehouse`).
+
+---
+
+## About Founders KSA
+
+Founders KSA was born from a simple frustration: finding clear, reliable information about starting a business in Saudi Arabia was unnecessarily difficult. Government portals, scattered blog posts, and word-of-mouth advice left aspiring entrepreneurs confused and overwhelmed.
+
+We set out to change that. By compiling comprehensive licensing guides, documenting the startup ecosystem, and sharing authentic founder stories, we created a single destination for anyone looking to build in the Kingdom.
+
+Whether you're a Saudi national exploring your first freelancer license, an international founder considering the KSA market, or simply curious about the vibrant startup scene — Founders KSA is here to guide you every step of the way.
+
+### Mission
+To empower aspiring entrepreneurs with the knowledge, resources, and inspiration they need to build successful businesses in Saudi Arabia.
+
+### Vision
+A thriving Saudi entrepreneurial ecosystem where every founder has access to clear guidance and a supportive community.
+
+### Values
+Transparency, accessibility, and authenticity. We believe real stories and practical guides make the difference.
+
+---
+
+## Saudi Startup Ecosystem Highlights
+
+- **SAR 6B+** in Gaming & Entertainment Investment — Saudi Arabia is the largest gaming market in MENA
+- **2,000+ Active Startups** — A rapidly growing ecosystem backed by Vision 2030
+- **5 Startup Hub Cities** — Riyadh, Jeddah, Dammam, NEOM, and more
+
+---
+
+## Founder Stories
+
+### 1. From Teenage Coder to 5 Million Downloads — Salman, NJD Studio (Gaming)
+**URL:** https://foundersksa.com/stories/njd-studio
+**Full text API:** https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug=njd-studio
+
+Salman started coding games as a teenager in Saudi Arabia, turning a bedroom hobby into NJD Studio — a gaming company with over 5 million downloads. His journey highlights the explosive growth of the Saudi gaming industry, supported by Vision 2030's investment in entertainment and digital content.
+
+### 2. From the Janitor's Closet to the Boardroom — Sir Alain Edene, Fittin International (Healthcare)
+**URL:** https://foundersksa.com/stories/alain-edene
+**Full text API:** https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug=alain-edene
+
+Sir Alain Edene's journey from humble beginnings to founding Fittin International in Saudi Arabia is a story of resilience and determination in the healthcare industry. His company now serves the Kingdom's growing health and wellness market.
+
+### 3. Rooted in Resilience: Riyadh's Farm-to-Table Café — Lulwah Al Juraiban, Treehouse (F&B / Hospitality)
+**URL:** https://foundersksa.com/stories/treehouse
+**Full text API:** https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug=treehouse
+
+Lulwah Al Juraiban built Treehouse, a farm-to-table café in Riyadh, combining sustainability with Saudi Arabia's booming food and beverage industry. Her story showcases female entrepreneurship in the Kingdom.
+
+### 4. The Architect of Startups in Saudi Arabia — Hassan Ikram, Cotyledon (Consultancy)
+**URL:** https://foundersksa.com/stories/hassan-ikram
+**Full text API:** https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug=hassan-ikram
+
+Hassan Ikram founded Cotyledon, a startup consultancy helping new businesses navigate the Saudi market. His mantra: "Hard work eventually pays off — just don't give up on the drive."
+
+### 5. From Banking to Biotech — Faisal Shaker (Biotech)
+**URL:** https://foundersksa.com/stories/faisal-shaker
+**Full text API:** https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug=faisal-shaker
+
+Faisal Shaker transitioned from 15 years in banking to founding a biotech venture in Saudi Arabia, raising SAR 5M in under an hour. His story demonstrates the Kingdom's growing appetite for deep-tech innovation.
+
+### 6. The Science of Possibility — Dr. Hayat Sindi (Healthcare/Biotech)
+**URL:** https://foundersksa.com/stories/dr-hayat-sindi
+**Full text API:** https://hjxmcovyutuvbbvytjkm.supabase.co/functions/v1/read-article?slug=dr-hayat-sindi
+
+Dr. Hayat Sindi is one of Saudi Arabia's most celebrated scientists and entrepreneurs, known for her groundbreaking work in biotechnology and her efforts to make science accessible in the Arab world.
+
+---
+
+## Founder Quotes
+
+- "Hard work eventually pays off — just don't give up on the drive." — Hassan Ikram, Cotyledon
+- "Success is never owned, it is rented. And rent is due every day." — Sir Alain Edene, Fittin International
+- "Build for the player, and the success will follow." — Salman, NJD Studio
+
+---
+
+## Contact
+
+- **Email:** info@foundersksa.com
+- **Location:** Riyadh, Saudi Arabia
+- **Website:** https://foundersksa.com

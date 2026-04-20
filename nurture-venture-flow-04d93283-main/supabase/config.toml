@@ -1,0 +1,13 @@
+project_id = "hjxmcovyutuvbbvytjkm"
+
+[functions.og-share]
+verify_jwt = false
+
+[functions.read-article]
+verify_jwt = false
+
+[functions.format-article]
+verify_jwt = false
+
+[functions.export-articles-sql]
+verify_jwt = false

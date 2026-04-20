@@ -1,0 +1,1 @@
+ALTER TABLE public.founder_applications ADD COLUMN founder_role text DEFAULT NULL;
